@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8bdc320e-fd69-4ae7-9425-de95a418c223" name="Default Changelist" comment="第2次提交">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/example/demo/DemoApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +74,7 @@
       <workItem from="1616244465991" duration="3230000" />
       <workItem from="1616247733036" duration="77000" />
       <workItem from="1616247839752" duration="670000" />
+      <workItem from="1616249693968" duration="98000" />
     </task>
     <task id="LOCAL-00001" summary="第2次提交">
       <created>1616245284497</created>
