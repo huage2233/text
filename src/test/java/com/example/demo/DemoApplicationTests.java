@@ -10,8 +10,8 @@ class DemoApplicationTests {
     void contextLoads() {
         System.out.println("第一行内容");
         System.out.println("第二行内容");
+        System.out.println("分支");
         System.out.println("主干");
-
     }
 
 }
