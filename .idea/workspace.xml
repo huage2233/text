@@ -13,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev02" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -74,7 +74,7 @@
       <updated>1616244462468</updated>
       <workItem from="1616244465991" duration="3230000" />
       <workItem from="1616247733036" duration="77000" />
-      <workItem from="1616247839752" duration="670000" />
+      <workItem from="1616247839752" duration="828000" />
     </task>
     <task id="LOCAL-00001" summary="第2次提交">
       <created>1616245284497</created>
@@ -83,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616245284498</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="主干操作">
+      <created>1616248569055</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616248569056</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,13 +112,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
     <MESSAGE value="第2次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第2次提交" />
+    <MESSAGE value="主干操作" />
+    <option name="LAST_COMMIT_MESSAGE" value="主干操作" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="298" y="0" key="CommitChangelistDialog2" timestamp="1616247943882">
+    <state x="298" y="0" key="CommitChangelistDialog2" timestamp="1616250036741">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
-    <state x="298" y="0" key="CommitChangelistDialog2/0.0.1600.852@0.0.1600.852" timestamp="1616247943882" />
+    <state x="298" y="0" key="CommitChangelistDialog2/0.0.1600.852@0.0.1600.852" timestamp="1616250036741" />
     <state x="91" y="91" width="1418" height="670" key="DiffContextDialog" timestamp="1616245480167">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
@@ -120,21 +128,33 @@
       <screen x="0" y="0" width="1600" height="852" />
     </state>
     <state x="526" y="102" key="FileChooserDialogImpl/0.0.1600.852@0.0.1600.852" timestamp="1616244503808" />
+    <state x="435" y="70" key="MultipleFileMergeDialog" timestamp="1616248645747">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="435" y="70" key="MultipleFileMergeDialog/0.0.1600.852@0.0.1600.852" timestamp="1616248645747" />
     <state x="176" y="0" key="SettingsEditor" timestamp="1616247918236">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
     <state x="176" y="0" key="SettingsEditor/0.0.1600.852@0.0.1600.852" timestamp="1616247918236" />
-    <state x="291" y="91" key="Vcs.Push.Dialog.v2" timestamp="1616247955826">
+    <state x="291" y="91" key="Vcs.Push.Dialog.v2" timestamp="1616249133868">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
-    <state x="291" y="91" key="Vcs.Push.Dialog.v2/0.0.1600.852@0.0.1600.852" timestamp="1616247955826" />
+    <state x="291" y="91" key="Vcs.Push.Dialog.v2/0.0.1600.852@0.0.1600.852" timestamp="1616249133868" />
     <state x="399" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1616247839542">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
     <state x="399" y="205" key="com.intellij.ide.util.TipDialog/0.0.1600.852@0.0.1600.852" timestamp="1616247839542" />
+    <state x="502" y="67" key="git4idea.branch.GitSmartOperationDialog" timestamp="1616248632017">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="502" y="67" key="git4idea.branch.GitSmartOperationDialog/0.0.1600.852@0.0.1600.852" timestamp="1616248632017" />
     <state x="542" y="258" key="git4idea.rebase.GitRebaseDialog" timestamp="1616247109429">
       <screen x="0" y="0" width="1600" height="852" />
     </state>
     <state x="542" y="258" key="git4idea.rebase.GitRebaseDialog/0.0.1600.852@0.0.1600.852" timestamp="1616247109429" />
+    <state x="0" y="97" key="new project wizard" timestamp="1616249657839">
+      <screen x="0" y="0" width="1600" height="852" />
+    </state>
+    <state x="0" y="97" key="new project wizard/0.0.1600.852@0.0.1600.852" timestamp="1616249657839" />
   </component>
 </project>
