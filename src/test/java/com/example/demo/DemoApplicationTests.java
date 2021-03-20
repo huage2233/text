@@ -9,6 +9,7 @@ class DemoApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("第一行内容");
+        System.out.println("第二行内容");
     }
 
 }
